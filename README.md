@@ -1,3 +1,13 @@
+## Hi! I'm Kim! 🌺👩‍💻
+<div> 
+  <a href = "mailto:kimberllys.amaral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kimberllyamaral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+- 👋 Hi, I’m @KimberllyAmaral
+- 👀 I’m interested in improving javascript and python skills
+- 🌱 I’m currently learning Django, OpenAPI, MySQL...
+
 <div align="center">
   <a href="https://github.com/KimberllyAmaral">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KimberllyAmaral&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -20,19 +30,4 @@
   
   <img align="center" alt="Kim-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
-
-##
-
-<div> 
-  <a href = "mailto:kimberllys.amaral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kimberllyamaral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
-
-- 👋 Hi, I’m @KimberllyAmaral
-- 👀 I’m interested in improving my html, css and javascript skills
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: kimberllys.amaral@gmail.com
-
 
