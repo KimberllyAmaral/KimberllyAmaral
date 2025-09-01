@@ -15,7 +15,7 @@
  ### Experiência com as seguintes ferramentas:
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Kim-cypress" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />
+  <img align="center" alt="Kim-cypress" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />
 
   <img align="center" alt="Kim-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
           
@@ -25,9 +25,9 @@
   
   <img align="center" alt="Kim-postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
 
-  <img align="center" alt="Kim-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  
   <img align="center" alt="Kim-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
+  <img align="center" alt="Kim-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   
   <img align="center" alt="Kim-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
