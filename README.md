@@ -1,4 +1,11 @@
-## Hi! I'm Kim! 🌺👩‍💻 I am a software developer working for a remote team 👥
+## Olá! Seja muito bem-vindo(a) 📚🔍
+*O que você vai encontrar aqui:*
+- Sobre mim
+- 📋 Casos de teste documentados
+- ⚙️ Exercícios práticos relacionados a QA
+- 💻 Estudos sobre ferramentas, automação e boas práticas
+- 📂 Projetos desenvolvidos como parte do meu portfólio
+
 <div> 
   <a href = "mailto:kimberllys.amaral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kimberllyamaral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
