@@ -41,3 +41,4 @@ Atualmente, busco novos desafios como QA (manual ou automatizado), em empresas q
   
 </div>
 
+### 📁Confira meus repositórios abaixo ⬇😉
