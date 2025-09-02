@@ -1,6 +1,5 @@
 ## Olá! Seja muito bem-vindo(a) ao meu perfil📚🔍
 O que você vai encontrar aqui:
-- 💁🏽 Sobre mim
 - 📂 Projetos desenvolvidos como parte do meu portfólio
 - 💻 Estudos sobre ferramentas, automação e boas práticas
 - 📋 Casos de teste documentados
@@ -16,7 +15,7 @@ Sou uma profissional detalhista, colaborativa e orientada a resultados, sempre b
 Atualmente, busco novos desafios como QA (manual ou automatizado), em empresas que valorizem qualidade, inovação e colaboração. Meu objetivo é seguir evoluindo tecnicamente, contribuir com meu olhar crítico e apoiar o time para alcançar entregas consistentes e de alto nível.
   
  ## 
- ### Experiência com as seguintes ferramentas:
+ ### ⚙️🛠 Experiência com as seguintes ferramentas:
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Kim-cypress" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />
