@@ -1,15 +1,19 @@
-## Olá! Seja muito bem-vindo(a) 📚🔍
-*O que você vai encontrar aqui:*
-- Sobre mim
-- 📋 Casos de teste documentados
-- ⚙️ Exercícios práticos relacionados a QA
-- 💻 Estudos sobre ferramentas, automação e boas práticas
+## Olá! Seja muito bem-vindo(a) ao meu perfil📚🔍
+O que você vai encontrar aqui:
+- 💁🏽 Sobre mim
 - 📂 Projetos desenvolvidos como parte do meu portfólio
+- 💻 Estudos sobre ferramentas, automação e boas práticas
+- 📋 Casos de teste documentados
+- ⚙️ Estudos e exercícios relacionados a QA
 
-<div> 
-  <a href = "mailto:kimberllys.amaral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kimberllyamaral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### Sobre mim
+Meu nome é Kimberlly e sou Analista de Qualidade de Software (QA) com mais de 3 anos de experiência em tecnologia. Iniciei minha carreira como desenvolvedora em JavaScript, Node.js e Python, mas logo descobri que minha verdadeira vocação estava em Quality Assurance, onde consigo unir minha visão analítica à paixão por entregar produtos com qualidade real.
+
+Ao longo da minha trajetória, atuei em consultorias de tecnologia, incluindo a CI&T, participando de projetos em diferentes segmentos: saúde, educação, e-commerce, setor bancário e até metalurgia. A maior parte do meu trabalho foi em times internacionais, aplicando testes manuais e automação com Cypress e Robot Framework. Essa experiência me deu uma visão completa do Software Development Life Cycle (SDLC) e do papel estratégico da qualidade em todas as etapas do desenvolvimento.
+
+Sou uma profissional detalhista, colaborativa e orientada a resultados, sempre buscando elevar a entrega final. Além disso, possuo inglês avançado e já fiz intercâmbio de trabalho e estudo na Alemanha, o que me permite atuar com maior facilidade em contextos multiculturais e globais.
+
+Atualmente, busco novos desafios como QA (manual ou automatizado), em empresas que valorizem qualidade, inovação e colaboração. Meu objetivo é seguir evoluindo tecnicamente, contribuir com meu olhar crítico e apoiar o time para alcançar entregas consistentes e de alto nível.
   
  ## 
  ### Experiência com as seguintes ferramentas:
